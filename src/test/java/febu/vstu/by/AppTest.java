@@ -1,4 +1,4 @@
-package isap.vstu.by;
+package febu.vstu.by;
 
 import static org.junit.Assert.assertTrue;
 
