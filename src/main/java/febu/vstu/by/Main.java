@@ -1,8 +1,5 @@
 package febu.vstu.by;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-
 public class Main {
 
     static final Logger rootLogger = LogManager.getRootLogger();
